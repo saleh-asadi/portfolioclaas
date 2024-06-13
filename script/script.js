@@ -1,0 +1,4 @@
+
+function testClicked() {
+    alert("Hello")
+}
