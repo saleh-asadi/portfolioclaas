@@ -30,6 +30,11 @@ nav a {
     width: 100%;
 }
 
+.w-80 {
+    width: 80%;
+    margin-left: 10%;
+}
+
 .flex {
     display: flex;
 }
@@ -94,6 +99,36 @@ nav a {
 
 .right-0 {
     right: 0;
+}
+
+.img2 {
+    width: 370px;
+    height: 200px;
+    object-fit: cover;
+    opacity: 0.8;
+}
+
+.divp {
+    width: 360px;
+    height: 200px;
+}
+
+footer {
+    background-color: rgba(128, 128, 128, 0.375);
+    opacity: 0.8;
+    margin-bottom: 0%;
+    height: 40px;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+    padding: 10px;
+}
+
+
+.df1 {
+    margin-left: 16%;
 }
 
 
